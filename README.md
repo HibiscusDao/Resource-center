@@ -9,6 +9,10 @@
 [Hyperstructures](https://jacob.energy/hyperstructures.html)<br/>
 [Blockchain technology in the fashion supply chain](https://zuj35osrq635qzo4h2bmc2qqtpmhzv4fcdr45cdrc6opjuyi6uoq.arweave.net/zRO-ulGHt9hl3D6CwWoQm9h814UQ486IcRec9NMI9R0)<br/>
 
+### Community Ownership
+
+["Skyscraper"](https://arweave.net/A6onts8SZGAszM149CeLLnDqZvoRx-kxU_wjrFykRVc) <br/>
+
 ### Smart Contracts
 
 [Liquid Splits](https://docs.0xsplits.xyz/modules/liquid)<br/>
@@ -48,7 +52,7 @@
 [Token Enabled Web Pages](https://highlight.xyz/)<br/>
 [Allow List Creation Tool](https://lanyard.org/)<br/>
 
-### Contemporary Fashion Voices 
+### Contemporary Fashion Documentation
 
 [The Cutting Room Floor](https://thecuttingroomfloor.com/)<br/>
 [Fashionroadman](https://www.youtube.com/fashionroadman)<br/>
