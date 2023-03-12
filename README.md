@@ -60,6 +60,7 @@
 ### Fashion Archive Documentation
 
 [Archive.pdf](https://www.archivepdf.net/)<br/>
+[Vexed Generation](https://arweave.net/GmYN1rF-D3qlrt1NgMDbwjf6XGmuAqa_E94tYlz7O4Y)<br/>
 
 ### Content Storage
 
